@@ -21,5 +21,5 @@ The slider works when scrolling with the mouse wheel:
 - Smooth animation is present when scrolling with the wheel on yourself
 - Scrolling without animation works when scrolling with the wheel away from you
 
-![Description](./src/assets/Slider.png)
+![My Animation](./public/slider_demo1.gif)
 
